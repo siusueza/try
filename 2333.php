@@ -1,1 +1,10 @@
-<?php echo '小薛砸的毕设233333'; ?>
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+echo "我的第一段 PHP 脚本！";
+?>
+
+</body>
+</html>
