@@ -4,7 +4,7 @@
 <body>
 
 <?php
-echo "hello world";
+echo "小薛砸的毕设！！！！";
 ?>
 
 </body>
